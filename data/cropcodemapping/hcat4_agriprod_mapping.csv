@@ -103,43 +103,42 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3310201000,beans,5,Harvested Green,<,G2000,Leguminous plants harvested green
 3310201000,beans,6,Harvested as Grains,=,P1200,Broad and field beans
 3310201000,beans,9,Seed/Propagation,=,P1200,Broad and field beans
-3310202000,peanuts,0,No specified use,<,I1190T,Other oilseeds and oleaginous fruits - outdoor
-3310203000,soy_soybeans,0,No specified use,=,I1130,Soya
-3310204000,chickpeas,0,No specified use,=,P9200,Chickpeas
-3310214000,fenugreek,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
-3310205000,lentils,0,No specified use,=,P9100,Lentils
-3310205000,lentils,3,Fodder/Forage,<,G2000,Leguminous plants harvested green
-3310206000,peas,0,No specified use,=,P1100,Field peas
-3310206000,peas,1,Consumption/Fresh,=,V5100,Fresh peas
-3310206000,peas,2,Industry/for processing,=,V5100,Fresh peas
-3310206000,peas,3,Fodder/Forage,<,G2000,Leguminous plants harvested green
-3310206000,peas,5,Harvested Green,<,G2000,Leguminous plants harvested green
-3310206000,peas,6,Harvested as Grains,=,P1100,Field peas
-3310207000,lupins,0,No specified use,=,P1300,Sweet lupins
-3310208000,alfalfa_lucerne,0,No specified use,=,G2100,Lucerne
-3310208000,alfalfa_lucerne,3,Fodder/Forage,=,G2100,Lucerne
-3310208000,alfalfa_lucerne,9,Seed/Propagation,<,E0000,Seeds and seedlings
-3310209000,serradella,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
-3310210000,clover,0,No specified use,<,G2910,Clover and mixtures
-3310210000,clover,5,Harvested Green,<,G2910,Clover and mixtures
-3310210000,clover,9,Seed/Propagation,<,E0000,Seeds and seedlings
-3310210000,clover,11,Nitrogen fixing ,<,Q0000,Fallow land
-3310211000,melilot,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
-3310212000,vetches,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
+3310201020,peanuts,0,No specified use,<,I1190T,Other oilseeds and oleaginous fruits - outdoor
+3310201030,soy_soybeans,0,No specified use,=,I1130,Soya
+3310201040,chickpeas,0,No specified use,=,P9200,Chickpeas
+3310201060,fenugreek,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
+3310201070,lentils,0,No specified use,=,P9100,Lentils
+3310201070,lentils,3,Fodder/Forage,<,G2000,Leguminous plants harvested green
+3310201080,peas,0,No specified use,=,P1100,Field peas
+3310201080,peas,1,Consumption/Fresh,=,V5100,Fresh peas
+3310201080,peas,2,Industry/for processing,=,V5100,Fresh peas
+3310201080,peas,3,Fodder/Forage,<,G2000,Leguminous plants harvested green
+3310201080,peas,5,Harvested Green,<,G2000,Leguminous plants harvested green
+3310201080,peas,6,Harvested as Grains,=,P1100,Field peas
+3310201090,lupins,0,No specified use,=,P1300,Sweet lupins
+3310202010,alfalfa_lucerne,0,No specified use,=,G2100,Lucerne
+3310202010,alfalfa_lucerne,3,Fodder/Forage,=,G2100,Lucerne
+3310202010,alfalfa_lucerne,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310202020,serradella,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
+3310202030,clover,0,No specified use,<,G2910,Clover and mixtures
+3310202030,clover,5,Harvested Green,<,G2910,Clover and mixtures
+3310202030,clover,9,Seed/Propagation,<,E0000,Seeds and seedlings
+3310202030,clover,11,Nitrogen fixing ,<,Q0000,Fallow land
+3310202040,melilot,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
+3310202050,vetches,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
 3310701000,strawberries,9,Seed/Propagation,<,E0000,Seeds and seedlings
-3310212000,vetches,3,Fodder/Forage,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
-3310212000,vetches,6,Harvested as Grains,<,P9000,"Other dry pulses and protein crops n.e.c. (lentils, chickpeas, vetches, etc.)"
-3310213000,onobrychis_sainfoins,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
-3310215000,galega,0,No specified use,<,G9900,Other plants harvested green from arable land n.e.c.
-3310215000,galega,3,Fodder/Forage,<,G9900,Other plants harvested green from arable land n.e.c.
-3310216000,birdsfoot_treifoil,0,No specified use,<,G2000,Leguminous plants harvested green
+3310202050,vetches,3,Fodder/Forage,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
+3310202050,vetches,6,Harvested as Grains,<,P9000,"Other dry pulses and protein crops n.e.c. (lentils, chickpeas, vetches, etc.)"
+3310202060,onobrychis_sainfoins,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
+3310202070,galega,0,No specified use,<,G9900,Other plants harvested green from arable land n.e.c.
+3310202070,galega,3,Fodder/Forage,<,G9900,Other plants harvested green from arable land n.e.c.
 3310299000,other_legumes,0,No specified use,=,P0000+G2000,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)+Leguminous plants harvested green
-3310720000,potatoes,0,No specified use,<,R1000,Potatoes (including seed potatoes)
-3310720000,potatoes,1,Consumption/Fresh,<,R1000,Potatoes (including seed potatoes)
-3310720000,potatoes,2,Industry/for processing,<,R1000,Potatoes (including seed potatoes)
-3310720000,potatoes,3,Fodder/Forage,<,R1000,Potatoes (including seed potatoes)
-3310720000,potatoes,9,Seed/Propagation,<,R1000,Potatoes (including seed potatoes)
-3310721000,sweet_potatoes,0,No specified use,<,R1000,Potatoes (including seed potatoes)
+3310300000,potatoes,0,No specified use,<,R1000,Potatoes (including seed potatoes)
+3310300000,potatoes,1,Consumption/Fresh,<,R1000,Potatoes (including seed potatoes)
+3310300000,potatoes,2,Industry/for processing,<,R1000,Potatoes (including seed potatoes)
+3310300000,potatoes,3,Fodder/Forage,<,R1000,Potatoes (including seed potatoes)
+3310300000,potatoes,9,Seed/Propagation,<,R1000,Potatoes (including seed potatoes)
+3310400000,sweet_potatoes,0,No specified use,<,R1000,Potatoes (including seed potatoes)
 3310600000,industrial_nonfood_crops,0,No specified use,=,I0000,Industrial crops
 3310600000,industrial_nonfood_crops,2,Industry/for processing,=,I0000,Industrial crops
 3310600000,industrial_nonfood_crops,8,Oil,=,I0000,Industrial crops
@@ -628,7 +627,7 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3330499000,other_citrus,0,No specified use,=,T9000,Other citrus fruits n.e.c.
 3330500000,olive,0,No specified use,=,O1000,Olives
 3330500000,olive,2,Industry/for processing,=,O1000,Olives
-3330600000,vineyards_wine_vine_rebland_grapes,0,No specified use,=,W1000,"Grapes"
+3330600000,vineyards_wine_vine_rebland_grapes,0,No specified use,=,W1000,Grapes
 3330600000,vineyards_wine_vine_rebland_grapes,1,Consumption/Fresh,=,W1200,Grapes for table use
 3330600000,vineyards_wine_vine_rebland_grapes,2,Industry/for processing,=,W1100+W1300,Grapes for wines+Grapes for raisins
 3330600000,vineyards_wine_vine_rebland_grapes,9,Seed/Propagation,<,L0000,Nurseries
@@ -644,8 +643,8 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3330807000,wire_bush,0,No specified use,<,FA9,Other areas on the farms
 3330899000,other_shrubs,0,No specified use,<,FA9,Other areas on the farms
 3330901000,carob,0,No specified use,=,H9100,Carobs
-3340100000,truffle,0,No specified use,<,H9000,Other permanent crops for human consumption n.e.c.
-3340000000,mushrooms,0,No specified use,=,U1000,Cultivated mushrooms
+3340200000,truffle,0,No specified use,<,H9000,Other permanent crops for human consumption n.e.c.
+3340300000,mushrooms,0,No specified use,=,U1000,Cultivated mushrooms
 3349900000,other_mushrooms,0,No specified use,=,U1000,Cultivated mushrooms
 3350000000,greenhouse_foil_film,0,No specified use,=,UAAS,Utilised agricultural area - under glass or high accessible cover
 3360000000,tree_wood_forest,0,No specified use,=,WA,Wooded areas
@@ -672,3 +671,15 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3390000000,not_known_and_other,0,No specified use,<,FA9,Other areas on the farms
 3390000000,not_known_and_other,3,Fodder/Forage,<,FA9,Other areas on the farms
 3390000000,not_known_and_other,10,Eco-schemes for environment protection,<,FA9,Other areas on the farms
+3310201050,esparsette_onobrychis,0,No specified use,<,G2900,Other leguminous plants harvested green n.e.c. (clover etc.)
+3310201990,other_dry_pulses,0,No specified use,>,P0000,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)
+3310202990,other_legumes_harvested_green,0,No specified use,=,G2000,Leguminous plants harvested green
+3310201020,peanuts,5,Harvested Green,<,I1190T,Other oilseeds and oleaginous fruits - outdoor
+3310201020,peanuts,11,Nitrogen fixing ,<,I1190T,Other oilseeds and oleaginous fruits - outdoor
+3310198002,spring_unspecified_cereals,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
+3310198002,spring_unspecified_cereals,0,No specified use,<,C0000,Cereals for the production of grain (including seed)
+3310198000,unspecified_cereals,0,No specified use,<,C0000,Cereals for the production of grain (including seed)
+3310198000,unspecified_cereals,6,Harvested as Grains,<,C0000,Cereals for the production of grain (including seed)
+3310851000,violets_pansies,0,No specified use,<,N0000,Flowers and ornamental plants (excluding nurseries)
+3310198001,winter_unspecified_cereals,5,Harvested Green,<,G9100,Other cereals harvested green (excluding green maize)
+3310198001,winter_unspecified_cereals,0,No specified use,<,C0000,Cereals for the production of grain (including seed)
