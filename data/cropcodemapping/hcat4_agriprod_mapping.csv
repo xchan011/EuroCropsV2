@@ -96,13 +96,13 @@ hcat4_code,hcat4_name,usage_code,usage_name,link,agriprod_code,agriprod_name
 3310200000,legumes,8,Oil,<,I1100,Oilseeds
 3310200000,legumes,9,Seed/Propagation,>,P0000,Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)
 3310200000,legumes,11,Nitrogen fixing ,<,Q0000,Fallow land
-3310201000,beans,0,No specified use,=,P1200,Broad and field beans
-3310201000,beans,1,Consumption/Fresh,=,V5200,Fresh beans
-3310201000,beans,2,Industry/for processing,=,V5200,Fresh beans
-3310201000,beans,3,Fodder/Forage,<,G2000,Leguminous plants harvested green
-3310201000,beans,5,Harvested Green,<,G2000,Leguminous plants harvested green
-3310201000,beans,6,Harvested as Grains,=,P1200,Broad and field beans
-3310201000,beans,9,Seed/Propagation,=,P1200,Broad and field beans
+3310201010,beans,0,No specified use,=,P1200,Broad and field beans
+3310201010,beans,1,Consumption/Fresh,=,V5200,Fresh beans
+3310201010,beans,2,Industry/for processing,=,V5200,Fresh beans
+3310201010,beans,3,Fodder/Forage,<,G2000,Leguminous plants harvested green
+3310201010,beans,5,Harvested Green,<,G2000,Leguminous plants harvested green
+3310201010,beans,6,Harvested as Grains,=,P1200,Broad and field beans
+3310201010,beans,9,Seed/Propagation,=,P1200,Broad and field beans
 3310201020,peanuts,0,No specified use,<,I1190T,Other oilseeds and oleaginous fruits - outdoor
 3310201030,soy_soybeans,0,No specified use,=,I1130,Soya
 3310201040,chickpeas,0,No specified use,=,P9200,Chickpeas
