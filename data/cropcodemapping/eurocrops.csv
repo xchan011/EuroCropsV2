@@ -2922,7 +2922,7 @@ ee,10313,üheaastane raihein jm üheaastased heintaimed,Annual ryegrass and othe
 ee,,,,3390000000,not_known_and_other,0,No specified use
 es,1,TRIGO BLANDO,SOFT WHEAT,3310101000,common_soft_wheat,0,No specified use
 es,10,MIJO,Millet,3310109000,millet,0,No specified use
-es,10001,Unknown,unknown,3390000000,not_known_and_other,0,No specified use
+es,0,Unknown,unknown,3390000000,not_known_and_other,0,No specified use
 es,101,OLIVO,OLIVE,3330500000,olive,0,No specified use
 es,102,VIÑA,VINEYARD,3330600000,vineyards_wine_vine_rebland_grapes,0,No specified use
 es,103,UVA DE MESA,TABLE GRAPES,3330600000,vineyards_wine_vine_rebland_grapes,1,Consumption/Fresh
