@@ -901,7 +901,7 @@ bg,10079,Ядкови(черупкови) видове,other pome fruit species,
 bg,10080,актинидия(киви),actinidia (kiwi),3330107000,kiwi,0,No specified use
 bg,10081,анасон,anise,3310612050,anise_aniseed,0,No specified use
 bg,10082,арония,aronia,3330201000,aronia_chokeberries,0,No specified use
-bg,10083,арпаджик,shallot,3310708060,shallot,0,No specified use
+bg,10083,арпаджик,Onion sets,3310708040,onions,0,No specified use
 bg,10084,артишок,artichoke,3310713000,artichoke,0,No specified use
 bg,10085,аспержи,asparagus,3310706000,asparagus,0,No specified use
 bg,10086,бадеми,almonds,3330301000,almond,0,No specified use
@@ -934,7 +934,7 @@ bg,10112,домати - отопляеми оранжерии,tomatoes - heated 
 bg,10113,домати - полски,tomatoes - field,3310714000,tomato,0,No specified use
 bg,10114,домати на открито,tomatoes outdoors,3310714000,tomato,0,No specified use
 bg,10115,други зърнено-бобови,other cereals and legumes,3310100000,cereal,0,No specified use
-bg,10116,други зърнено-житни,Other cereals,3310198000,unspecified_cereals,0,No specified use
+bg,10116,други зърнено-житни,Other cereals,3310100000,cereal,0,No specified use
 bg,10117,други индустриални култури,Other industrial crops,3310600000,industrial_nonfood_crops,2,Industry/for processing
 bg,10118,други кореноплодни култури,other root crops,3310715000,root_vegetables,0,No specified use
 bg,10119,други костилкови овощни видове,other stone fruit species,3330100000,orchards_fruits,0,No specified use
@@ -964,14 +964,14 @@ bg,10142,ечемик-пролетен,barley-Spring,3310104002,spring_barley,0,
 bg,10143,жълт мак,Yellow horned poppy,3310606000,poppy,0,No specified use
 bg,10144,захарна царевица,sweet corn,3310106000,maize_corn_popcorn,0,No specified use
 bg,10145,захарно цвекло,sugar beet,3310719010,sugar_beet,0,No specified use
-bg,10146,звездан,Bird’s foot Trefoil,3310202990,other_legumes_harvested_green,0,No specified use
+bg,10146,звездан,Bird’s foot Trefoil,3310202080,birdsfoot_treifoil,0,No specified use
 bg,10147,зелен грах,green peas,3310201080,peas,5,Harvested Green
 bg,10148,зелен фасул,green beans,3310201010,beans,0,No specified use
 bg,10149,зелена бакла,green broad beans,3310201010,beans,5,Harvested Green
 bg,10150,зим-зелен,Periwinkle,3310899000,other_flowers_ornamental_plants,0,No specified use
 bg,10151,изкуствени ливади-бобови,Cultivated grasslands – leguminous crops,3320000000,grassland_grass,0,No specified use
-bg,10152,изкуствени ливади-житни,Cultivated grasslands – cereal crops,3310100000,cereal,0,No specified use
-bg,10153,изкуствени ливади-смесени насаждения,cultivated meadows mixed plantations,3310000000,arable_crops,0,No specified use
+bg,10152,изкуствени ливади-житни,Cultivated grasslands – grass crops,3320201000,poaceae_grasses,0,No specified use
+bg,10153,изкуствени ливади-смесени насаждения,cultivated grasslands mixed plantations,3320000000,grassland_grass,0,No specified use
 bg,10154,кайсии/зарзали,apricots,3330103000,apricots,0,No specified use
 bg,10155,карфиол,cauliflower,3310707050,cauliflower,0,No specified use
 bg,10156,касис,blackcurrant,3330206010,blackcurrant_cassis,0,No specified use
@@ -1084,7 +1084,7 @@ bg,10262,целина,Celery,3310711000,celery,0,No specified use
 bg,10263,череши,cherries,3330104000,cherry_cherries,0,No specified use
 bg,10264,черна мерудия,Black cumin,3310612080,black_cumin,0,No specified use
 bg,10265,чесън,garlic,3310708020,garlic,0,No specified use
-bg,10266,чувен,Good-king-henry,3310717990,other_salads_lettuce_leaf_vegetables,0,No specified use
+bg,10266,чувен,Saponaria officinalis,3310699000,other_industrial_crops,0,No specified use
 bg,10267,шам-фъстъци,pistachios,3330304000,pistachio,0,No specified use
 bg,10268,шипка,Dog rose,3310837000,roses,0,No specified use
 bg,10269,ябълки,Apples,3330102000,apples,0,No specified use
