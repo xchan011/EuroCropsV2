@@ -3057,7 +3057,7 @@ es,247,CULTIVOS MIXTOS DE ESPECIES PRATENSES,Mixed Crops of the Pratense (clover
 es,248,ALGARROBA,CAROB TREE,3330901000,carob,0,No specified use
 es,249,ALVERJA,Pea,3310201080,peas,0,No specified use
 es,25,ABANDONO 20 años,ABANDONMENT 20 years,3370000000,unmaintained,0,No specified use
-es,250,ALBERJÓN,Chickpea,3310201040,chickpeas,0,No specified use
+es,250,ALBERJÓN,Lupin,3310201090,lupins,0,No specified use
 es,251,AJEDREA,SAVORY,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 es,252,CILANTRO,CILANTRO,3310612150,coriander,0,No specified use
 es,253,ANÍS DULCE,SWEET ANISE,3310612050,anise_aniseed,0,No specified use
@@ -3110,9 +3110,9 @@ es,300,SABINA,Sabina (type of Junipers),3360900000,conifers,0,No specified use
 es,302,MEZCLA EN MÁRGENES MULTIFUNCIONALES,MIXING IN MULTIFUNCTIONAL MARGINS,3390000000,not_known_and_other,0,No specified use
 es,303,MEZCLA DE RESERVORIOS,RESERVOIR MIX,3390000000,not_known_and_other,0,No specified use
 es,304,COL CHINA,CHINESE CABBAGE,3310707060,chinese_cabbage,0,No specified use
-es,305,MEZCLA AVENA-TRIGO,OAT-WHEAT MIXTURE,3310105000,oats,0,No specified use
-es,306,MEZCLA AVENA-CEBADA,OATS-BARLEY MIXTURE,3310105000,oats,0,No specified use
-es,307,MEZCLA AVENA-TRITICALE,OAT-TRITICALE MIXTURE,3310105000,oats,0,No specified use
+es,305,MEZCLA AVENA-TRIGO,OAT-WHEAT MIXTURE,3310100000,cereal,0,No specified use
+es,306,MEZCLA AVENA-CEBADA,OATS-BARLEY MIXTURE,3310100000,cereal,0,No specified use
+es,307,MEZCLA AVENA-TRITICALE,OAT-TRITICALE MIXTURE,3310100000,cereal,0,No specified use
 es,308,AGRIMONIA,AGRIMONY,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 es,309,BARDANA,BURDOCK,3310715010,arctium_burdock,0,No specified use
 es,310,DIENTE DE LEÓN,DANDELION,3310814000,dandelions,0,No specified use
@@ -3146,7 +3146,7 @@ es,339,MEZCLA AVENA-YEROS,Oat vetch mixture,3310105000,oats,0,No specified use
 es,34,SOJA,SOY,3310201030,soy_soybeans,0,No specified use
 es,340,MEZCLA CEBADA-YEROS,BARLEY-Vetches MIXTURE,3310104000,barley,0,No specified use
 es,341,SILPHIUM,SILPHIUM,3310844000,silphium_rosinweeds,0,No specified use
-es,342,OTRAS MEZCLAS CON PREDOMINANCIA CFN,Nitrogen-fixing crops (CFN),3310201020,peanuts,11,Nitrogen fixing 
+es,342,OTRAS MEZCLAS CON PREDOMINANCIA CFN,OTHER MIXTURES WITH PREDOMINANCE Nitrogen-fixing crops (CFN),3310200000,legumes,11,Nitrogen fixing 
 es,343,AGUACATE,AVOCADO,3330116000,avocado,0,No specified use
 es,344,MANGO,MANGO,3330199000,other_orchards_fruits,0,No specified use
 es,345,CHIRIMOYO,cherimoya,3330199000,other_orchards_fruits,0,No specified use
@@ -3176,12 +3176,12 @@ es,377,MADROÑO ,Strawberry Tree,3369900000,other_tree_wood_forest,0,No specifie
 es,378,OLMO,ELM,3369900000,other_tree_wood_forest,0,No specified use
 es,381,QUEJIGO,Portuguese oak,3360600000,oak,0,No specified use
 es,383,RETAMA,RETAMA,3390000000,not_known_and_other,0,No specified use
-es,385,TALAYA,Tamarix,3369900000,other_tree_wood_forest,0,No specified use
+es,385,TALAYA,Pyrenean oak,3360600000,oak,0,No specified use
 es,387,TILO,Tilia tree,3369900000,other_tree_wood_forest,0,No specified use
 es,388,YUCA,YUCA,3310899000,other_flowers_ornamental_plants,0,No specified use
 es,389,PINO,PINE,3360900000,conifers,0,No specified use
 es,390,HABONCILLO,Field Beans,3310201010,beans,0,No specified use
-es,391,CEREZO DE MAHOMA,Mahaleb Cherrz,3330104000,cherry_cherries,0,No specified use
+es,391,CEREZO DE MAHOMA,Mahaleb Cherry,3330104000,cherry_cherries,0,No specified use
 es,392,MEZCLA ALUBIA-MAÍZ,BEAN-CORN MIXTURE,3310201010,beans,0,No specified use
 es,395,PANIZO,Maiz,3310106000,maize_corn_popcorn,0,No specified use
 es,397,JUDÍA ESCARLATA,SCARLET Runner BEAN,3310201010,beans,0,No specified use
@@ -3208,17 +3208,17 @@ es,444,ZUMAQUE,SUMAC,3310612990,other_aromatic_medicinal_culinary_plants_spices_
 es,445,COL CRESPA,Curly kale,3310707090,kale,0,No specified use
 es,446,SERRADELLA,SERRADELLA,3310202020,serradella,0,No specified use
 es,447,MEZCLA CEREAL-RAYGRASS,CEREAL-RYEGRASS MIXTURE,3310100000,cereal,0,No specified use
-es,448,MEZCLA AVENA-MAÍZ,OAT-CORN MIXTURE,3310105000,oats,0,No specified use
-es,449,MEZCLA HABA-VEZA,BEAN-VETCHES MIXTURE,3310201010,beans,0,No specified use
-es,450,MEZCLA CEBADA-TRIGO,BARLEY-WHEAT MIXTURE,3310104000,barley,0,No specified use
-es,451,MEZCLA CENTENO-TRIGO,RYE-WHEAT MIXTURE,3310103000,rye,0,No specified use
+es,448,MEZCLA AVENA-MAÍZ,OAT-CORN MIXTURE,3310100000,cereal,0,No specified use
+es,449,MEZCLA HABA-VEZA,BEAN-VETCHES MIXTURE,3310200000,legumes,0,No specified use
+es,450,MEZCLA CEBADA-TRIGO,BARLEY-WHEAT MIXTURE,3310100000,cereal,0,No specified use
+es,451,MEZCLA CENTENO-TRIGO,RYE-WHEAT MIXTURE,3310100000,cereal,0,No specified use
 es,452,MEZCLA AVENA-MAÍZ-VEZA,OAT-CORN-VETCHES MIXTURE,3310105000,oats,0,No specified use
 es,453,MEZCLA CEBADA-MAÍZ-VEZA,BARLEY-CORN-VETCHES MIXTURE,3310104000,barley,0,No specified use
 es,454,MEZCLA ALTRAMUZ-AVENA,LUPINE-OATS MIXTURE,3310201090,lupins,0,No specified use
-es,455,MEZCLA AVENA-CENTENO,OAT-RYE MIXTURE,3310105000,oats,0,No specified use
-es,457,MEZCLA MAÍZ-SORGO,CORN-SORGHUM MIXTURE,3310106000,maize_corn_popcorn,0,No specified use
+es,455,MEZCLA AVENA-CENTENO,OAT-RYE MIXTURE,3310100000,cereal,0,No specified use
+es,457,MEZCLA MAÍZ-SORGO,CORN-SORGHUM MIXTURE,3310100000,cereal,0,No specified use
 es,460,CAUPÍ,Black-eyed pea,3310201010,beans,0,No specified use
-es,461,MELILOTO AMARILLO ,YELLOW SWEET CLOVER,3310202030,clover,0,No specified use
+es,461,MELILOTO AMARILLO ,YELLOW SWEET CLOVER,3310202040,melilot,0,No specified use
 es,463,CHOISUM,CHOISUM,3310707990,other_brassicaceae_cruciferae,0,No specified use
 es,464,BRÓCOLI CHINO,Kai-lan,3310707080,gai_lan,0,No specified use
 es,465,BATATA ACUÁTICA,Water spinach,3310717990,other_salads_lettuce_leaf_vegetables,0,No specified use
@@ -3233,9 +3233,9 @@ es,483,VEZA VELLOSA,Hairy vetch,3310202050,vetches,0,No specified use
 es,484,GRELOS,Rapini,3310707990,other_brassicaceae_cruciferae,0,No specified use
 es,485,BAYAS DE GOJI,GOJI BERRIES,3330299000,other_berries_berry_species,0,No specified use
 es,486,ALVERJA HÚNGARA,HUNGARIAN PEA,3310201080,peas,0,No specified use
-es,489,GRAMA COMÚN,Scutch grass,3320201010,elymus,0,No specified use
+es,489,GRAMA COMÚN,Scutch grass,3320209900,other_poaceae_grasses,0,No specified use
 es,49,ALUBIA,BEAN,3310201010,beans,0,No specified use
-es,490,MEDICAGO,MEDICAGO,3310299000,other_legumes,0,No specified use
+es,490,MEDICAGO,MEDICAGO,3310202010,alfalfa_lucerne,0,No specified use
 es,496,MEZCLA RAYGRASS-TREBOL,RYEGRASS-CLOVER MIXTURE,3320201050,lolium_ryegrass,0,No specified use
 es,5,CEBADA,BARLEY,3310104000,barley,0,No specified use
 es,50,GARBANZO,CHICKPEA,3310201040,chickpeas,0,No specified use
@@ -3256,14 +3256,14 @@ es,67,ESPARCETA,sainfoin,3310202060,onobrychis_sainfoins,0,No specified use
 es,68,FESTUCA,Fescue,3320201020,festuca_fescue,0,No specified use
 es,69,RAYGRASS PERENNE,PERENNIAL RYEGRASS,3320201050,lolium_ryegrass,0,No specified use
 es,7,SORGO,SOY,3310116000,sorghum,0,No specified use
-es,70,AGROSTIS,Bent grass,3320201010,elymus,0,No specified use
+es,70,AGROSTIS,Bent grass,3320209900,other_poaceae_grasses,0,No specified use
 es,700,SUP DE AGROSILVICULTURA QUE RECIBA O HAYA RECIBIDO AYUDAS DE LOS REGLAMENTOS 1698/2005 Y/O 1305/2013,AGROSILVICULTURE SUP THAT RECEIVES OR HAS RECEIVED AID FROM REGULATIONS 1698/2005 AND/OR 1305/2013,3390000000,not_known_and_other,10,Eco-schemes for environment protection
-es,71,ARRHENATHERUM,Oat grass,3320201010,elymus,0,No specified use
+es,71,ARRHENATHERUM,Oat grass,3320209900,other_poaceae_grasses,0,No specified use
 es,72,DACTILO,Cat grass,3320201030,cocksfoot_catgrass,0,No specified use
 es,73,FLEO,Timothy,3320201090,timothy,0,No specified use
 es,74,POA,Poa grass,3320201010,elymus,0,No specified use
 es,750,SUPERFICIES VINCULADAS A LA DIRECTIVA 92/43/CEE,SURFACES LINKED TO DIRECTIVE 92/43/EEC,3390000000,not_known_and_other,0,No specified use
-es,76,ZULLA,Sulla coronaria,3310299000,other_legumes,0,No specified use
+es,76,ZULLA,Hedysarum coronarium,3310299000,other_legumes,0,No specified use
 es,77,TRÉBOL,CLOVER,3310202030,clover,0,No specified use
 es,78,RAYGRASS ANUAL ,Ryegrass annual,3320201050,lolium_ryegrass,0,No specified use
 es,8,AVENA,OAT,3310105000,oats,0,No specified use
@@ -3278,7 +3278,7 @@ es,850,OTRAS SUPERFICIES FORESTALES-VUELO,OTHER FOREST AREAS-FLIGHT,3360000000,t
 es,86,CÁÑAMO,HEMP,3310610000,hemp_cannabis,0,No specified use
 es,87,CACAHUETE,PEANUT,3310201020,peanuts,0,No specified use
 es,88,CÁRTAMO,safflower,3310839000,safflower,0,No specified use
-es,89,CHUFA,CHUFA,3330399000,other_nuts,0,No specified use
+es,89,CHUFA,CHUFA,3319900000,other_arable_land_crops,0,No specified use
 es,9,ALFORFÓN,BUCKWHEAT,3310703020,buckwheat,0,No specified use
 es,90,REGALIZ,Licorice,3310299000,other_legumes,0,No specified use
 es,901,BRASSICA CARINATA,Ethiopian rape/mustard,3310604990,other_oilseed_crops,0,No specified use
@@ -3303,14 +3303,14 @@ es,92,ROMANESCU,Romanesco,3310707990,other_brassicaceae_cruciferae,0,No specifie
 es,923,GUAYABO,Guava,3330199000,other_orchards_fruits,0,No specified use
 es,924,ZAPOTE,Sapote,3330199000,other_orchards_fruits,0,No specified use
 es,925,ALFICOZ,Armenian cucumber,3310702990,other_cucurbits,0,No specified use
-es,926,BATATA,Potato,3310400000,sweet_potatoes,0,No specified use
+es,926,BATATA,Sweet potato,3310400000,sweet_potatoes,0,No specified use
 es,927,OKRA,OKRA,3310799000,other_fresh_vegetables,0,No specified use
 es,928,PHYSALIS,PHYSALIS,3330299000,other_berries_berry_species,0,No specified use
 es,929,RÚCULA,ARUGULA,3310717050,rocket_arugula,0,No specified use
 es,93,LINO NO TEXTIL,NON-TEXTILE LINEN,3310607000,flax_linseed,0,No specified use
 es,930,SALICORNIA,Glassworts,3319900000,other_arable_land_crops,0,No specified use
 es,932,PLANTAS ORNAMENTALES,ORNAMENTAL PLANTS,3310800000,flowers_ornamental_plants,0,No specified use
-es,937,CUERNECILLO ,Birds foot trefoil,3310202990,other_legumes_harvested_green,0,No specified use
+es,937,CUERNECILLO ,Birds foot trefoil,3310202080,birdsfoot_treifoil,0,No specified use
 es,938,FRESÓN,STRAWBERRY,3310701000,strawberries,0,No specified use
 es,939,ALMENDRO-OLIVAR,ALMOND-OLIVE,3330301000,almond,0,No specified use
 es,940,NARANJO.CAQUI,ORANGE.KAKI,3330402000,orange,0,No specified use
