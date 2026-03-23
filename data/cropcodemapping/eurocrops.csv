@@ -4608,9 +4608,9 @@ nl,1909,"Aardappelen, consumptie- op kleigrond","Potatoes, consumption on clay s
 nl,1910,"Aardappelen, consumptie- op zand-/veengrond","Potatoes, consumption on sandy/peat soil",3310300000,potatoes,1,Consumption/Fresh
 nl,1911,"Aardappelen, cons. op kleigrond (vroeg, loofver voor 15-07)","Potatoes, cons. on clay soil (early, leaves before 15-07)",3310300000,potatoes,0,No specified use
 nl,1912,"Aardappelen, cons. op zand/veen (vroeg, loofver voor 15-07)","Potatoes, cons. on sand/peat (early, leaves before 15-07)",3310300000,potatoes,0,No specified use
-nl,1914,"Graszaad, overig","Grass seed, other",3320201010,elymus,9,Seed/Propagation
+nl,1914,"Graszaad, overig","Grass seed, other",3320201000,poaceae_grasses,9,Seed/Propagation
 nl,1915,"Graszaad, rietzwenkgras","Grass seed, tall fescue",3320201020,festuca_fescue,9,Seed/Propagation
-nl,1916,"Graszaad, veldbeemd","Grass seed, kentucky bluegrass",3320201010,elymus,9,Seed/Propagation
+nl,1916,"Graszaad, veldbeemd","Grass seed, kentucky bluegrass",3320209900,other_poaceae_grasses,9,Seed/Propagation
 nl,1917,"Graszaad, roodzwenkgras, 1e jaar","Grass seed, red fescue, 1st year",3320201020,festuca_fescue,9,Seed/Propagation
 nl,1918,"Graszaad, roodzwenkgras, overjarig","Grass seed, red fescue, perennial",3320201020,festuca_fescue,9,Seed/Propagation
 nl,1919,"Graszaad, westerwolds","Grass seed, westerwolds ryegrass",3320201050,lolium_ryegrass,9,Seed/Propagation
@@ -4665,7 +4665,7 @@ nl,236,"Gerst, zomer-",barley summer,3310104002,spring_barley,0,No specified use
 nl,237,Rogge (geen snijrogge) ,Rye (not cut rye),3310103000,rye,0,No specified use
 nl,238,Haver ,Oats,3310105000,oats,0,No specified use
 nl,239,"Erwten, groene, droog te oogsten (geen conserven)","Peas, green, dry harvest (no canned)",3310201080,peas,5,Harvested Green
-nl,240,Schokkers,Wrinkled pea,3310201080,peas,0,No specified use
+nl,240,Schokkers,field pea (schokker peas),3310201080,peas,0,No specified use
 nl,241,Kapucijners (en grauwe erwten) ,Capuchins (and gray peas),3310201080,peas,0,No specified use
 nl,242,"Bonen, bruine-",beans brown,3310201010,beans,0,No specified use
 nl,243,"Bonen, veld-(oa duive-, paarde-, wierbonen)(droog te oogsten","Beans, field (including pigeon, horse, weed beans) (can be harvested dry",3310201010,beans,0,No specified use
@@ -4692,7 +4692,7 @@ nl,2629,Struweelrand,thicket edge,3360000000,tree_wood_forest,0,No specified use
 nl,263,"Uien, zilver-",onions silver,3310708040,onions,0,No specified use
 nl,2630,Hakhoutbosje,Coppice grove,3360000000,tree_wood_forest,0,No specified use
 nl,2631,Griendje,Osier belt,3360800000,willows_osiers,0,No specified use
-nl,2633,Rietzoom en klein rietperceel,Reed border and small reed plot with max 20% woody plants,3320201010,elymus,0,No specified use
+nl,2633,Rietzoom en klein rietperceel,Reed border and small reed plot with max 20% woody plants,3320201000,poaceae_grasses,0,No specified use
 nl,2634,Natuurvriendelijke oever,Nature-friendly bank,3390000000,not_known_and_other,0,No specified use
 nl,2636,Leibomen,Espalier trees,3360000000,tree_wood_forest,0,No specified use
 nl,2637,Schurvelingen en zandwallen,planted rampart and sand banks,3390000000,not_known_and_other,0,No specified use
@@ -4753,8 +4753,8 @@ nl,2743,"Kruiden, productie",Herbs production,3310612000,aromatic_medicinal_culi
 nl,2744,"Kruiden, zaden en opkweekmateriaal",Herbs seeds and propagation material,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,9,Seed/Propagation
 nl,2745,"Paksoi, productie",Bok choy production,3310707020,bok_choy_pak_choi,0,No specified use
 nl,2746,"Paksoi, zaden en opkweekmateriaal","Pak choi, seeds and propagation material",3310707020,bok_choy_pak_choi,9,Seed/Propagation
-nl,2747,"Peulen, productie","Pulses, production",3310201010,beans,0,No specified use
-nl,2748,"Peulen, zaden en opkweekmateriaal","Pulses, seeds and propagation material",3310201010,beans,9,Seed/Propagation
+nl,2747,"Peulen, productie","Pulses, production",3310200000,legumes,0,No specified use
+nl,2748,"Peulen, zaden en opkweekmateriaal","Pulses, seeds and propagation material",3310200000,legumes,9,Seed/Propagation
 nl,2749,"Prei, productie","Leek, production",3310708030,leek,0,No specified use
 nl,2750,"Prei, zaden en opkweekmateriaal","Leek, seeds and propagation material",3310708030,leek,9,Seed/Propagation
 nl,2751,"Pronkbonen, productie",Runner beans production,3310201010,beans,0,No specified use
@@ -4849,7 +4849,7 @@ nl,3516,Rietzwenkgras,Tall fescue,3320201020,festuca_fescue,0,No specified use
 nl,3517,Sarepta mosterd/Caliente,Sarepta mustard/Caliente,3310707010,mustard,0,No specified use
 nl,3518,Seradelle,Serradella,3310202020,serradella,0,No specified use
 nl,3519,Soedangras/Sorghum,Sudan grass/Sorghum,3310116000,sorghum,0,No specified use
-nl,3521,Stoppelknollen,Stubble Tubers,3310715050,turnips,0,No specified use
+nl,3521,Stoppelknollen,Autumn turnip (Brassica rapa subsp. rapa subvar. esculenta),3310715050,turnips,0,No specified use
 nl,3522,Timothee,Timothy,3320201090,timothy,0,No specified use
 nl,3523,Veldbeemdgras,Field meadow grass,3320100000,permanent_grassland,0,No specified use
 nl,3524,"Klaver, witte",clover white,3310202030,clover,0,No specified use
@@ -4886,7 +4886,7 @@ nl,516,Miscanthus (olifantsgras) ,Miscanthus (elephant grass),3310617030,miscant
 nl,636,Saffloer,safflower,3310839000,safflower,0,No specified use
 nl,637,Vrouwenmantel,lady's mantle,3310612020,alchemilla_ladys_mantle,0,No specified use
 nl,652,Meekrap,Madder,3310613000,rubia_tinctorum_common_madder,0,No specified use
-nl,6522,Riet,reed,3320201010,elymus,0,No specified use
+nl,6522,Riet,reed,3320201000,poaceae_grasses,0,No specified use
 nl,653,Teunisbloem,evening primrose,3310835000,primrose,0,No specified use
 nl,654,Brandnetel,Nettle,3310612250,nettles,0,No specified use
 nl,655,Zwarte mosterd,black mustard,3310707010,mustard,0,No specified use
@@ -4935,8 +4935,8 @@ nl,6784,"Roodzwenkgras, graszaad","Red fescue, grass seed",3320201020,festuca_fe
 nl,6785,"Roodzwenkgras, groenbemesting, vanggewas","Red fescue, green manure, catch crop",3320201020,festuca_fescue,5,Harvested Green
 nl,6786,"Timothee, graszaad","Timothy, grass seed",3320201090,timothy,9,Seed/Propagation
 nl,6787,"Timothee, groenbemesting, vanggewas","Timothy, green manure, catch crop",3320201090,timothy,5,Harvested Green
-nl,6788,"Veldbeemdgras, graszaad","Kentucky bluegrass, grass seed",3320201010,elymus,9,Seed/Propagation
-nl,6789,"Veldbeemdgras, groenbemesting, vanggewas","Kentucky bluegrass, green manure, catch crop",3320201010,elymus,5,Harvested Green
+nl,6788,"Veldbeemdgras, graszaad","Kentucky bluegrass, grass seed",3320209900,other_poaceae_grasses,9,Seed/Propagation
+nl,6789,"Veldbeemdgras, groenbemesting, vanggewas","Kentucky bluegrass, green manure, catch crop",3320209900,other_poaceae_grasses,5,Harvested Green
 nl,6790,"Westerwolds raaigras, graszaad","westerwold ryegrass, grass seed",3320201050,lolium_ryegrass,9,Seed/Propagation
 nl,6791,"Westerwolds raaigras, groenbemesting, vanggewas","westerwold ryegrass, green manure, catch crop",3320201050,lolium_ryegrass,5,Harvested Green
 nl,6792,Zeekraal,"salicornia (vegetable, feed, biofuel)",3319900000,other_arable_land_crops,0,No specified use
@@ -4958,7 +4958,7 @@ nl,795,Wilgenhakhout,Willow coppice,3360800000,willows_osiers,0,No specified use
 nl,796,Kerstbomen,Christmas trees,3360900000,conifers,0,No specified use
 nl,799,"Klaver, rode",clover red,3310202030,clover,0,No specified use
 nl,800,Rolklaver,Trefoil,3310202990,other_legumes_harvested_green,0,No specified use
-nl,801,Esparcette,esparcette,3310201050,esparsette_onobrychis,0,No specified use
+nl,801,Esparcette,esparcette,3310202060,onobrychis_sainfoins,0,No specified use
 nl,802,"Wikke, bonte",Vetch variegated,3310202050,vetches,0,No specified use
 nl,803,"Wikke, voeder-",vetch feed,3310202050,vetches,3,Fodder/Forage
 nl,804,Klaverzaad,clover seed,3310202030,clover,9,Seed/Propagation
