@@ -278,7 +278,7 @@ be2,38,"Gierst, sorghum, kanariezaad of harde tarwe","Millet, sorghum, canary se
 be2,381,Sorghum,Sorghum,3310116000,sorghum,0,No specified use
 be2,382,Quinoa,Quinoa,3310703030,quinoa,0,No specified use
 be2,383,Gierst,Millet,3310109000,millet,0,No specified use
-be2,39,Andere granen (bv. Mengkoren),Other grains (e.g. mixed wheat),3310198000,unspecified_cereals,6,Harvested as Grains
+be2,39,Andere granen (bv. Mengkoren),Other grains (e.g. mixed wheat),3310100000,cereal,6,Harvested as Grains
 be2,391,Mengteelt andere wintergranen en winterteelt vlinderbloemige,Polyculture of other winter cereals and winter legumes,3310198001,winter_unspecified_cereals,0,No specified use
 be2,392,Mengteelt zomergranen en zomerteelt vlinderbloemige,Polyculture of spring cereals and summer legumes,3310198002,spring_unspecified_cereals,0,No specified use
 be2,395,Mengteelt wintertarwe of triticale en winterteelt vlinderbloemig,Polyculture of winter wheat or triticale and winter legume crop,3310101001,winter_common_soft_wheat,0,No specified use
@@ -331,7 +331,7 @@ be2,636,Engels raaigras,perennial ryegrass,3320201050,lolium_ryegrass,0,No speci
 be2,637,Hybride raaigras,Hybrid ryegrass,3320201050,lolium_ryegrass,0,No specified use
 be2,638,Festulolium,Festulolium,3320201040,festulolium,0,No specified use
 be2,639,Snijrogge,cutting rye,3310103000,rye,5,Harvested Green
-be2,642,Bladrammenas,fodder radish,3310715040,radish,3,Fodder/Forage
+be2,642,Bladrammenas,Oil radish,3310715040,radish,3,Fodder/Forage
 be2,643,Gele mosterd,Yellow mustard,3310707010,mustard,0,No specified use
 be2,644,Lupinen,Lupins,3310201090,lupins,0,No specified use
 be2,645,Phacelia,Phacelia,3311300000,phacelia,0,No specified use
@@ -442,7 +442,7 @@ be2,8911,Bebossing loofbomen-economisch,Afforestation of deciduous trees-economi
 be2,8912,Bebossing naaldbomen,Afforestation of conifers,3360100000,afforestation_reforestation,0,No specified use
 be2,8913,Bebossing naaldbomen-economisch,Afforestation of conifers - economic,3360900000,conifers,0,No specified use
 be2,8914,Bebossing populieren-ecologisch,Afforestation poplar ecological,3360700000,populus,0,No specified use
-be2,8915,Bebossing populieren,Poplar afforestation,3360100000,afforestation_reforestation,0,No specified use
+be2,8915,Bebossing populieren,Poplar afforestation,3360700000,populus,0,No specified use
 be2,892,Bebossing op blijvend grasland in 2003,Afforestation on permanent grassland in 2003,3320100000,permanent_grassland,0,No specified use
 be2,894,Andere bebossing,Other afforestation,3360100000,afforestation_reforestation,0,No specified use
 be2,895,Bomen in groep,Group trees,3360100000,afforestation_reforestation,0,No specified use
@@ -564,7 +564,7 @@ be2,9604,Boomkweek - andere,arboriculture other,3330700000,nurseries_nursery,0,N
 be2,961,Wortelpeterselie - vers verbruik,Carrot parsley - fresh consumption,3310612270,parsley,1,Consumption/Fresh
 be2,962,Kerstbomen,Christmas trees,3360900000,conifers,0,No specified use
 be2,9620,Andere kolen - vers,Other cabbages - fresh,3310707000,brassicaceae_cruciferae,1,Consumption/Fresh
-be2,963,Wijmenaanplantingen,vine plantations,3330600000,vineyards_wine_vine_rebland_grapes,0,No specified use
+be2,963,Wijmenaanplantingen,Willow plantations,3360800000,willows_osiers,0,No specified use
 be2,964,Basilicum - vers verbruik,Basil - fresh consumption,3310612070,basil,1,Consumption/Fresh
 be2,965,Bieslook - vers verbruik,Chives - fresh consumption,3310708010,chives,1,Consumption/Fresh
 be2,9710,Meerjarige fruitteelten (appel),Perennial fruit crops (apple),3330102000,apples,0,No specified use
