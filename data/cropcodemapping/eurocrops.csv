@@ -4223,7 +4223,7 @@ iti1,240,BARBABIETOLA - RAPA ROSSA/BIETOLA DA COSTA,BEET - beetroot/CHARD,331071
 iti1,2402,Oliva da trasformazione,Olive for processing,3330500000,olive,2,Industry/for processing
 iti1,244,TRITORDEUM,TRITORDEUM,3310199000,other_cereals,0,No specified use
 iti1,245,MENTUCCIA,Lesser calamint,3310612220,mints_peppermint,0,No specified use
-iti1,261,AVENA ALTISSIMA,false oat-grass,3320201010,elymus,0,No specified use
+iti1,261,AVENA ALTISSIMA,false oat-grass,3320209900,other_poaceae_grasses,0,No specified use
 iti1,265,FAGIOLO DI SPAGNA,SPANISH BEAN,3310201010,beans,0,No specified use
 iti1,27,CAROTA,CARROT,3310715020,carrots_daucus,0,No specified use
 iti1,270,CAVOLO CINESE,CHINESE CABBAGE,3310707060,chinese_cabbage,0,No specified use
@@ -4286,7 +4286,7 @@ iti1,35,ROSA,ROSE,3310837000,roses,0,No specified use
 iti1,359,FESTUCA  (SP. FESTUCA ARUNDINACEA SCHREB.),Tall fescue,3320201020,festuca_fescue,0,No specified use
 iti1,361,FESTUCA  (SP. FESTUCA PRATENSIS HUDS.),Meadow Fescue,3320201020,festuca_fescue,0,No specified use
 iti1,369,LOIETTO  (SP. LOLIUM X BOUCHEANUM KUNT.),Ryegrass (Lolium x boucheanum),3320201050,lolium_ryegrass,0,No specified use
-iti1,375,POA  (SP. POA PRATENSIS L.),Kentucky Bluegrass,3320201010,elymus,0,No specified use
+iti1,375,POA  (SP. POA PRATENSIS L.),Kentucky Bluegrass,3320209900,other_poaceae_grasses,0,No specified use
 iti1,379,TRIFOGLIO (SP. TRIFOLIUM ALEXANDRINUM L.),Clover (Alexandrian Clover),3310202030,clover,0,No specified use
 iti1,380,PRATI PERMANENTI NATURALI CON VINCOLI AMBIENTALI - TARA 20%,Natural Permanent Grasslands with Environmental Constraints - Tare 20%,3320100000,permanent_grassland,10,Eco-schemes for environment protection
 iti1,381,TRIFOGLIO  (SP. TRIFOLIUM HYBRIDUM L.),Clover (specifically Hybrid Clover),3310202030,clover,0,No specified use
@@ -4319,9 +4319,9 @@ iti1,415,TARASSACO,Dandelion,3310814000,dandelions,0,No specified use
 iti1,416,VALERIANA,VALERIAN,3310612380,valerian,0,No specified use
 iti1,417,VERBENA OFFICINALE,Common Verbena,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 iti1,418,VERGA D'ORO (SOLIDAGO VIRGA AUREA L.),Goldenrod,3310822000,goldenrod,0,No specified use
-iti1,419,VIOLA TRICOLOR,wild pansy,3310899000,other_flowers_ornamental_plants,0,No specified use
-iti1,422,BAMBU,Bamboo,3320201010,elymus,0,No specified use
-iti1,424,BAMBU GIGANTE,Giant Bamboo,3320201010,elymus,0,No specified use
+iti1,419,VIOLA TRICOLOR,wild pansy,3310850000,viola,0,No specified use
+iti1,422,BAMBU,Bamboo,3320209900,other_poaceae_grasses,0,No specified use
+iti1,424,BAMBU GIGANTE,Giant Bamboo,3320209900,other_poaceae_grasses,0,No specified use
 iti1,428,PINO NERO,Black Pine,3360900000,conifers,0,No specified use
 iti1,429,RAFANO,wild radish,3310715040,radish,0,No specified use
 iti1,43,RUSCUS,Butcher's Broom,3330899000,other_shrubs,0,No specified use
@@ -4331,10 +4331,10 @@ iti1,435,LIMETTE,LIMES,3330499000,other_citrus,0,No specified use
 iti1,436,SENAPE BRUNA,BROWN MUSTARD,3310707010,mustard,0,No specified use
 iti1,438,SENAPE NERA,BLACK MUSTARD,3310707010,mustard,0,No specified use
 iti1,445,LAVANDA,LAVENDER,3310612190,lavender_lavandula,0,No specified use
-iti1,446,POA ANNUA,Annual bluegrass,3320201010,elymus,0,No specified use
+iti1,446,POA ANNUA,Annual bluegrass,3320209900,other_poaceae_grasses,0,No specified use
 iti1,447,FUNGHI,MUSHROOMS,3349900000,other_mushrooms,0,No specified use
 iti1,45,SPELTA,SPELT,3310110000,spelt,0,No specified use
-iti1,453,FAGIOLO DALL'OCCHIO,cow pea,3310201990,other_dry_pulses,0,No specified use
+iti1,453,FAGIOLO DALL'OCCHIO,cow pea,3310201010,beans,0,No specified use
 iti1,456,ALOE,ALOE,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 iti1,457,ECHINACEA PALLIDA,ECHINACEA PALLIDA,3310815000,echinacea,0,No specified use
 iti1,458,ECHINACEA ANGUSTIFOLIA,ECHINACEA ANGUSTIFOLIA,3310815000,echinacea,0,No specified use
@@ -4376,8 +4376,8 @@ iti1,503,VIVAI ORTICOLI,HORTICULTURAL NURSERY,3330700000,nurseries_nursery,0,No 
 iti1,505,CAVE DA PIETRA,STONE QUARRIES,3390000000,not_known_and_other,0,No specified use
 iti1,507,PIANTE AROMATICHE E MEDICINALI E SPEZIE,AROMATIC AND MEDICINAL PLANTS AND SPICES,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,0,No specified use
 iti1,508,PORTULACA O PORCELLANA COMUNE,COMMON PURSLANE,3310710000,purslane,0,No specified use
-iti1,51,LUPOLINA,Black Medic,3310202030,clover,0,No specified use
-iti1,524,CAMELIA,CAMELLIA,3310615000,camelina,0,No specified use
+iti1,51,LUPOLINA,Black Medic,3310202010,alfalfa_lucerne,0,No specified use
+iti1,524,CAMELIA,CAMELLIA,3310899000,other_flowers_ornamental_plants,0,No specified use
 iti1,53,PANICO,foxtail millet,3310109000,millet,0,No specified use
 iti1,535,GERANIO,GERANIUM,3310899000,other_flowers_ornamental_plants,0,No specified use
 iti1,539,CARTAMO,SAFFLOWER,3310839000,safflower,0,No specified use
@@ -4395,7 +4395,7 @@ iti1,557,SERRE,GREENHOUSES,3350000000,greenhouse_foil_film,0,No specified use
 iti1,56,CANAPA,HEMP,3310610000,hemp_cannabis,0,No specified use
 iti1,562,ERBA MEDICA,ALFAFA,3310202010,alfalfa_lucerne,0,No specified use
 iti1,58,RAVIZZONE,RAPESEED,3310604010,rapeseed_rape,0,No specified use
-iti1,581,GINESTRINO,bird's-foot trefoil,3310202990,other_legumes_harvested_green,0,No specified use
+iti1,581,GINESTRINO,bird's-foot trefoil,3310202080,birdsfoot_treifoil,0,No specified use
 iti1,597,GRANO SARACENO,BUCKWHEAT,3310703020,buckwheat,0,No specified use
 iti1,60,CEDRO,CEDAR,3360900000,conifers,0,No specified use
 iti1,607,LEGUMINOSE DA GRANELLA,GRAIN LEGUMES,3310201010,beans,6,Harvested as Grains
@@ -4409,7 +4409,7 @@ iti1,630,ARACHIDE,PEANUT,3310201020,peanuts,0,No specified use
 iti1,646,PIANTE ORNAMENTALI,ORNAMENTAL PLANTS,3310800000,flowers_ornamental_plants,0,No specified use
 iti1,65,PASCOLO POLIFITA,Multifloral Pasture,3320100000,permanent_grassland,3,Fodder/Forage
 iti1,651,COLTIVAZIONI ARBOREE SPECIALIZZATE,SPECIALIZED TREE CROPS,3369900000,other_tree_wood_forest,0,No specified use
-iti1,653,ARUNDO DONAX,Giant Reed,3320201010,elymus,0,No specified use
+iti1,653,ARUNDO DONAX,Giant Reed,3320209900,other_poaceae_grasses,0,No specified use
 iti1,655,ARBORETO CONSOCIABILE (CON COLTIVAZIONI ERBACEE),COMBINABLE ARBORETUM (WITH HERBACEOUS CROPS),3360000000,tree_wood_forest,0,No specified use
 iti1,656,POMODORINO,CHERRY TOMATO,3310714000,tomato,0,No specified use
 iti1,66,CALENDULA,CALENDULA,3310612100,calendula_marigold,0,No specified use
@@ -4458,7 +4458,7 @@ iti1,83,TOPINAMBUR,JERUSALEM ARTICHOKE,3310713000,artichoke,0,No specified use
 iti1,831,ACTINIDIA (KIWI),ACTINIDIA (KIWI),3330107000,kiwi,0,No specified use
 iti1,842,RICINO,Castor oil,3330806000,ricinus_castor,8,Oil
 iti1,862,FIENO GRECO,FENUGREEK,3310201060,fenugreek,0,No specified use
-iti1,88,VIGNA CINESE,Cowpea,3310201990,other_dry_pulses,0,No specified use
+iti1,88,VIGNA CINESE,Cowpea,3310201010,beans,0,No specified use
 iti1,89,PATATA AMERICANA (BATATA),Sweet potato,3310400000,sweet_potatoes,0,No specified use
 iti1,899,PRATO PASCOLO,PASTURE,3320100000,permanent_grassland,3,Fodder/Forage
 iti1,902,ASPARAGO,ASPARAGUS,3310706000,asparagus,0,No specified use
