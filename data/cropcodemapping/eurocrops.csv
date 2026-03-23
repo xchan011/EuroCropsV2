@@ -2107,7 +2107,7 @@ dk,10006,Anden buskfrugt,Other shrub fruit,3330800000,shrubberries_shrubs,0,No s
 dk,10007,Andre grøntsager,Vegetables.,3310700000,fresh_vegetables,0,No specified use
 dk,10008,"Andre kornarter, vår","Other cereals, spring",3310198002,spring_unspecified_cereals,0,No specified use
 dk,10009,"Andre kornarter, vårsået","Other cereals, spring sown",3310198002,spring_unspecified_cereals,0,No specified use
-dk,10010,Blandet støtteberett,Mixed eligible fruit,3390000000,not_known_and_other,0,No specified use
+dk,10010,Blandet støtteberett,Mixed eligibility,3390000000,not_known_and_other,0,No specified use
 dk,10011,"Blandkorn, efterårss","Mixed grain, autumn.",3310198001,winter_unspecified_cereals,6,Harvested as Grains
 dk,10012,"Blandkorn, vårsået,","Mixed cereals, spring-sown,",3310198002,spring_unspecified_cereals,0,No specified use
 dk,10013,Blomme med undervæks,Plum with undergrowth,3330113000,plums,0,No specified use
@@ -2117,7 +2117,7 @@ dk,10016,Brombær,Blackberry,3330202010,blackberry,0,No specified use
 dk,10017,En- og to-årige plan,One- and two-year plants,3310000000,arable_crops,0,No specified use
 dk,10018,Engrapgræsfrø (markt,Poa pratensis L. Seed (field),3320209900,other_poaceae_grasses,9,Seed/Propagation
 dk,10019,Græs  under 50% kløv,Grass under 50% clover,3320000000,grassland_grass,5,Harvested Green
-dk,10020,Græs med vikke og an,Grass with vetch and oats.,3320000000,grassland_grass,0,No specified use
+dk,10020,Græs med vikke og an,Grass with vetch and other,3320000000,grassland_grass,0,No specified use
 dk,10021,Græs og kløvergræs u,Grass and clover grass mixture.,3320000000,grassland_grass,0,No specified use
 dk,10022,Græs og kløvergræs uden norm,Grass and clover grass without norm.,3320000000,grassland_grass,0,No specified use
 dk,10023,Græs til fabrik (omd,Grass for factory (omd.,3320000000,grassland_grass,0,No specified use
@@ -2177,14 +2177,14 @@ dk,10076,"Permanent græs, uden","Permanent grass, without.",3320100000,permanen
 dk,10077,"Permanent græs, uden kløver",Permanent grass without clover,3320100000,permanent_grassland,0,No specified use
 dk,10078,"Permanent græs, unde",Permanent grass,3320100000,permanent_grassland,0,No specified use
 dk,10079,"Permanent græs, under 50% kløver","Permanent grass, under 50% clover.",3320100000,permanent_grassland,0,No specified use
-dk,10080,"Permanent græs, ø-st","Permanent grass,  ø-st",3320100000,permanent_grassland,0,No specified use
+dk,10080,"Permanent græs, ø-st","Permanent grass,  eligible for organic subsidies",3320100000,permanent_grassland,0,No specified use
 dk,10081,Permanent lucerne og,Permanent lucerne,3310202010,alfalfa_lucerne,0,No specified use
 dk,10082,Planteskolekulturer,Nursery crops,3330700000,nurseries_nursery,0,No specified use
 dk,10083,Poppel,Poplar,3360700000,populus,0,No specified use
 dk,10084,Pærer,Pear,3330112000,pears,0,No specified use
 dk,10085,"Rajgræsfrø, alm. 1.","Rye grass seed, common 1.",3320201050,lolium_ryegrass,9,Seed/Propagation
 dk,10086,"Rajgræsfrø, ital. 1.",Italian ryegrass seed,3320201050,lolium_ryegrass,9,Seed/Propagation
-dk,10087,"Rapgræsfrø, alm.",Rough bluegrass,3320209900,other_poaceae_grasses,0,No specified use
+dk,10087,"Rapgræsfrø, alm.",Poa trivialis,3320209900,other_poaceae_grasses,0,No specified use
 dk,10088,Rekreative formål,Recreative purpose,3390000000,not_known_and_other,0,No specified use
 dk,10089,Roer til fabrik,Beets for factory,3310719020,mangelwurzel_beets,2,Industry/for processing
 dk,10090,Rødbede,Beetroot,3310719020,mangelwurzel_beets,0,No specified use
@@ -2193,9 +2193,9 @@ dk,10092,Rørgræs,Reed canary grass,3320209900,other_poaceae_grasses,0,No speci
 dk,10093,Salat,salad,3310717000,salads_lettuce_leaf_vegetables,0,No specified use
 dk,10094,Skovrejsning i proje,Afforestation in project,3360100000,afforestation_reforestation,0,No specified use
 dk,10095,Skovrejsning på tidl,Afforestation on former,3360100000,afforestation_reforestation,0,No specified use
-dk,10096,Surkirsebær med unde,Sour cherry with oak,3330104000,cherry_cherries,0,No specified use
-dk,10097,Surkirsebær uden und,Sour cherry without weed,3330104000,cherry_cherries,0,No specified use
-dk,10098,"Svingelfrø, strand-",Tall fescue seeds,3320201020,festuca_fescue,9,Seed/Propagation
+dk,10096,Surkirsebær med unde,Sour cherry with rootstock,3330104000,cherry_cherries,0,No specified use
+dk,10097,Surkirsebær uden und,Sour cherry without rootstock,3330104000,cherry_cherries,0,No specified use
+dk,10098,"Svingelfrø, strand-",Festuca ovina var. Duriuscula seeds,3320201020,festuca_fescue,9,Seed/Propagation
 dk,10099,Timothefrø,Timothy seeds,3320201090,timothy,9,Seed/Propagation
 dk,101,"Rajgræsfrø, alm.",Ryegrass seeds regular,3320201050,lolium_ryegrass,9,Seed/Propagation
 dk,10100,Udnyttet græs ved va,Utilized grass,3320000000,grassland_grass,0,No specified use
@@ -2214,17 +2214,17 @@ dk,102,"Rajgræsfrø, alm. 1. år, efterårsudlagt",Ryegrass seeds regular 1st y
 dk,103,"Rajgræsfrø, ital.",Ryegrass seeds italian,3320201050,lolium_ryegrass,9,Seed/Propagation
 dk,104,"Rajgræsfrø, ital. 1. år efterårsudlagt",Ryegrass seeds Italian 1 year autumn undersown,3320201050,lolium_ryegrass,9,Seed/Propagation
 dk,105,Timothefrø,Timothy-grass seeds (Phleum pratense),3320201090,timothy,9,Seed/Propagation
-dk,106,Hundegræsfrø,Cocksfoot seeds,3320201030,cocksfoot_catgrass,9,Seed/Propagation
+dk,106,Hundegræsfrø,Dactylis glomerata seeds,3320201030,cocksfoot_catgrass,9,Seed/Propagation
 dk,107,Engsvingelfrø,Meadow fescue seeds,3320201020,festuca_fescue,9,Seed/Propagation
 dk,108,Rødsvingelfrø,Red fescue seeds,3320201020,festuca_fescue,9,Seed/Propagation
-dk,109,Rajsvingelfrø,Rice fescue seeds,3320201020,festuca_fescue,9,Seed/Propagation
+dk,109,Rajsvingelfrø,X Festulolium seeds,3320201020,festuca_fescue,9,Seed/Propagation
 dk,11,Vinterhvede,Winter wheat,3310101001,winter_common_soft_wheat,0,No specified use
-dk,110,"Svingelfrø, stivbladet",Hard fescue seeds,3320201020,festuca_fescue,9,Seed/Propagation
-dk,111,Strandsvingelfrø,tall fescue seed,3320201020,festuca_fescue,9,Seed/Propagation
-dk,112,Engrapgræsfrø (marktype),Kentucky bluegrass seed (ley type),3320209900,other_poaceae_grasses,9,Seed/Propagation
-dk,113,Engrapsgræsfrø (plænetype),Kentucky bluegrass seed (turfgrass type),3320209900,other_poaceae_grasses,9,Seed/Propagation
+dk,110,"Svingelfrø, stivbladet",Festuca ovina var. Duriuscula seeds,3320201020,festuca_fescue,9,Seed/Propagation
+dk,111,Strandsvingelfrø,Festuca arundinacea seed,3320201020,festuca_fescue,9,Seed/Propagation
+dk,112,Engrapgræsfrø (marktype),Poa Pratensis seed (ley type),3320209900,other_poaceae_grasses,9,Seed/Propagation
+dk,113,Engrapsgræsfrø (plænetype),Poa Pratensis seed (turfgrass type),3320209900,other_poaceae_grasses,9,Seed/Propagation
 dk,114,Alm. rapgræsfrø,Poa trivialis seeds,3320209900,other_poaceae_grasses,9,Seed/Propagation
-dk,115,"Hvenefrø, alm. og krybende",Browntop and creeping bent,3320209900,other_poaceae_grasses,0,No specified use
+dk,115,"Hvenefrø, alm. og krybende",Agrostis stolonifera,3320209900,other_poaceae_grasses,0,No specified use
 dk,116,"Rajgræs, hybrid",Ryegrass hybrid,3320201050,lolium_ryegrass,0,No specified use
 dk,117,"Rajgræs, efterårsudl. hybrid",Ryegrass autumn undersown hybrid,3320201050,lolium_ryegrass,0,No specified use
 dk,118,"Rajsvingelfrø, efterårsudlagt",X Festulolium seeds autumn undersown,3320201020,festuca_fescue,9,Seed/Propagation
@@ -2233,8 +2233,8 @@ dk,121,Græsmarksbælgplanter,Grassland legumes,3320000000,grassland_grass,0,No 
 dk,122,Kommenfrø,Caraway seeds,3310612110,caraway,9,Seed/Propagation
 dk,123,Valmuefrø,Poppy seeds,3310606000,poppy,9,Seed/Propagation
 dk,124,Spinatfrø,Spinach seeds,3310717070,spinach,9,Seed/Propagation
-dk,125,Bederoefrø,Beetroot,3310719020,mangelwurzel_beets,0,No specified use
-dk,126,Blanding af markfrø til udsæd,Mix of seeds for seed corn,3310000000,arable_crops,9,Seed/Propagation
+dk,125,Bederoefrø,Beetroot seeds,3310719020,mangelwurzel_beets,0,No specified use
+dk,126,Blanding af markfrø til udsæd,Mixture of field seeds for sowing,3310000000,arable_crops,9,Seed/Propagation
 dk,13,"Vinterhvede, brødhvede",Winter wheat bread wheat,3310101001,winter_common_soft_wheat,0,No specified use
 dk,130,Unknown,unknown,3390000000,not_known_and_other,0,No specified use
 dk,14,Vinterrug,Winter rye,3310103001,winter_rye,0,No specified use
@@ -2272,17 +2272,17 @@ dk,210,"Vårbyg, helsæd",Spring barley wholecrop,3310104002,spring_barley,0,No 
 dk,211,"Vårhvede, helsæd",Spring wheat wholecrop,3310101002,spring_common_soft_wheat,0,No specified use
 dk,212,"Vårhavre, helsæd",Spring oats wholecrop,3310105002,spring_oats,0,No specified use
 dk,213,"Blandkorn, vårsået, helsæd",Mixed cereal spring sown wholecrop,3310111002,spring_mixed_grains,0,No specified use
-dk,214,"Korn/bælgsæd, helsæd, max 50% bælgsæd","Grain/legume, whole grain, max 50% legumes",3310100000,cereal,6,Harvested as Grains
-dk,215,Ærtehelsæd,Peas wholecrop,3310201080,peas,0,No specified use
+dk,214,"Korn/bælgsæd, helsæd, max 50% bælgsæd","Grain/legume, wholecrop, max 50% legumes",3310100000,cereal,6,Harvested as Grains
+dk,215,Ærtehelsæd,Pea wholecrop,3310201080,peas,0,No specified use
 dk,216,Silomajs,Silo maize,3310106000,maize_corn_popcorn,3,Fodder/Forage
 dk,217,"Korn og bælgsæd, helsæd (over 50 % bælgsæd)","Grain and grain legumes, whole grain (over 50% grain legumes)",3310200000,legumes,6,Harvested as Grains
-dk,218,Silomajs med græsudlæg,Silo maize with grass outcrop,3310106000,maize_corn_popcorn,3,Fodder/Forage
+dk,218,Silomajs med græsudlæg,Silo maize with grass undersowing,3310106000,maize_corn_popcorn,3,Fodder/Forage
 dk,22,Vinterraps,Winter rape,3310604011,winter_rapeseed_rape,0,No specified use
 dk,220,"Vinterbyg, helsæd",Winter barley wholecrop,3310104001,winter_barley,0,No specified use
 dk,221,"Vinterhvede, helsæd",Winter wheat wholecrop,3310101001,winter_common_soft_wheat,0,No specified use
 dk,222,"Vinterrug, helsæd",Winter rye wholecrop,3310103001,winter_rye,0,No specified use
 dk,223,"Vintertriticale, helsæd",Winter triticale wholecrop,3310108001,winter_triticale,0,No specified use
-dk,224,"Blandkorn, efterårssået helsæd","Mixed cereals, autumn-sown whole grains",3310198001,winter_unspecified_cereals,6,Harvested as Grains
+dk,224,"Blandkorn, efterårssået helsæd","Mixed cereals, autumn-sown wholecrop",3310198001,winter_unspecified_cereals,6,Harvested as Grains
 dk,225,Unknown,unknown,3390000000,not_known_and_other,0,No specified use
 dk,23,Rybs,Rapeseed,3310604010,rapeseed_rape,0,No specified use
 dk,230,"Vårkorn, grønkorn","Spring cereals, green grains",3310198002,spring_unspecified_cereals,5,Harvested Green
@@ -2383,7 +2383,7 @@ dk,349,"Brak langs vandløb og søer, sommerslåning (til målrettet kvælstofre
 dk,35,Flerårig bælgsæd,Perennial legume,3310200000,legumes,0,No specified use
 dk,350,Miljøgræs med N-kvote,Environmental grass with N quota,3320000000,grassland_grass,10,Eco-schemes for environment protection
 dk,36,"Bælgsæd, andre typer til modenhed blanding",Legumes other types for maturity mixing,3310200000,legumes,0,No specified use
-dk,360,Vildtafgrøder,Wild crops,3319900000,other_arable_land_crops,0,No specified use
+dk,360,Vildtafgrøder,Wildlife crops,3319900000,other_arable_land_crops,0,No specified use
 dk,361,Ikke støtteberettiget landbrugsareal,Farmland not warranted for subsidies,3310000000,arable_crops,0,No specified use
 dk,4,Blanding af vårsåede kornarter,Mix of spring-sown cereal crops,3310198002,spring_unspecified_cereals,0,No specified use
 dk,40,Oliehør,Oil flax,3310607000,flax_linseed,8,Oil
@@ -2561,7 +2561,7 @@ dk,663,Pastinakfrø,Parsnip seeds,3310715030,parsnips,9,Seed/Propagation
 dk,664,Skorzonerrodfrø.,black salsify seeds,3310715090,salsify,9,Seed/Propagation
 dk,665,Havrerodfrø,Purple salsify seed,3310715090,salsify,9,Seed/Propagation
 dk,666,Purløgfrø,Chive seeds,3310708010,chives,9,Seed/Propagation
-dk,667,Timianfrø,Thyme (Thymus vulgaris),3310612370,thyme,0,No specified use
+dk,667,Timianfrø,Thyme seeds,3310612370,thyme,0,No specified use
 dk,668,Blomsterfrø,Flower seeds,3310800000,flowers_ornamental_plants,9,Seed/Propagation
 dk,669,Andet havefrø,Other garden seeds,3311000000,seed_seedlings,9,Seed/Propagation
 dk,7,Korn/bælgsæd max. 50% bælgsæd,Grain/legume max. 50% grain legumes,3310100000,cereal,6,Harvested as Grains
@@ -2594,12 +2594,12 @@ dk,910,Ikke anmeldt mark,Unreported field,3390000000,not_known_and_other,0,No sp
 dk,920,Økologisk sommerbrak,Organic summer fallow,3311100000,fallow_land_not_crop,0,No specified use
 dk,921,Intern kode: Bar jord,Internal code: Bare soil,3390000000,not_known_and_other,0,No specified use
 dk,95,Unknown,unknown,3390000000,not_known_and_other,0,No specified use
-dk,960,"Græs, udlæg/eftersl. efter grønkorn o.l","Grass, sowing/follow-up after green grain, etc.",3320000000,grassland_grass,5,Harvested Green
-dk,961,"Græs, udlæg/eftersl. eft.helsæd/tidl.frø","Grass, outlay/backlog after whole grain/early seed",3320000000,grassland_grass,0,No specified use
-dk,962,"Græs, udlæg/eftersl. eft.korn/sildig frø","Grasses, long/short grain/silky grass",3320000000,grassland_grass,0,No specified use
+dk,960,"Græs, udlæg/eftersl. efter grønkorn o.l","Grass, undersown/aftermath after green grain harvest and similar",3320000000,grassland_grass,5,Harvested Green
+dk,961,"Græs, udlæg/eftersl. eft.helsæd/tidl.frø","Grass, undersown/aftermath after whole-crop silage / early seed crop",3320000000,grassland_grass,0,No specified use
+dk,962,"Græs, udlæg/eftersl. eft.korn/sildig frø","Grass, undersown/aftermath after cereals / late seed crop",3320000000,grassland_grass,0,No specified use
 dk,963,"Kløvergræs, udlæg/eftersl.efter grønkorn","Clover grass, sowing/following after green grain",3310202030,clover,5,Harvested Green
 dk,964,"Kløvergræs, udlæg/efterslæt efter helsæd","Clover grass, sown/after following whole crop.",3310202030,clover,0,No specified use
-dk,965,"Kløvergræs, udlæg/efterslæt efter korn","Clover grass, cover crop after cereals",3310202030,clover,0,No specified use
+dk,965,"Kløvergræs, udlæg/efterslæt efter korn","Clover-grass, undersown / after-sown after cereals",3310202030,clover,0,No specified use
 dk,968,Pligtige efterafgrøder,Mandatory catch crops,3310000000,arable_crops,0,No specified use
 dk,995,Slettet mark,Cleared field,3310000000,arable_crops,0,No specified use
 dk,997,Ikke kontrolleret afgrøde (kontrollørkode),Uncontrolled crop (control code),3390000000,not_known_and_other,0,No specified use
